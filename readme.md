@@ -20,7 +20,7 @@ Automatically promote raid members to assistant based on customizable rules. Per
 
 ### Slash Commands
 
-Type `/autopromote` or `/ap` followed by:
+Type `/autopromote` followed by:
 
 | Command | Description |
 |---------|-------------|
